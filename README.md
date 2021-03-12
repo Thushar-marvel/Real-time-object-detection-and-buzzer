@@ -49,7 +49,7 @@ If any difference which exceeds the predefined threshold the activate alert syst
 
 
 
-
+![GIF](link to image / GIF)
 
 
 
