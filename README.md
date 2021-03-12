@@ -17,10 +17,13 @@ Many popular computer vision applications.
 In this project I used open cv library to detect objects(any) in the image and make buzzer if any object is present or moving
 
 # Applications of the project
-1.Survilence camera  to detect any unknown object passing over and to activate alert system if any object gets detected.
-2.Continuous monitoring of the goods/products
-4.Theft detection
-5.Continuous monitoring of baby
+Survilence camera  to detect any unknown object passing over and to activate alert system if any object gets detected.
+
+Continuous monitoring of the goods/products
+
+Theft detection
+
+Continuous monitoring of baby
 
 # Procedure
 
@@ -28,6 +31,11 @@ In this project I used open cv library to detect objects(any) in the image and m
 Open cv library to work with image/video and winsound to make buzzer
 
 ![image](https://user-images.githubusercontent.com/69953585/110923627-1b5e1780-8347-11eb-83a8-39db6fe71165.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/69953585/110927916-3f702780-834c-11eb-8afb-19f0b06d2837.png)
 
 
 # Intialize camera
@@ -45,7 +53,9 @@ Apply morphological operations like dialtion and erosion to remove unwanted smal
 
 Then evaluate the current binary image with the initial /base image.
 
-If any difference which exceeds the predefined threshold the activate alert system.
+If any difference which exceeds the predefined threshold then activate alert system.
+
+These above steps run under a while loop condition.
 
 
 
