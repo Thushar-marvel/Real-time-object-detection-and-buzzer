@@ -51,6 +51,8 @@ If any difference which exceeds the predefined threshold the activate alert syst
 
 ![GIF](link to image / GIF)
 
+[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=--b-9HrKK6w)
+
 
 
 
