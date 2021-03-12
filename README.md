@@ -19,8 +19,8 @@ In this project I used open cv library to detect objects(any) in the image and m
 # Applications of the project
 1.Survilence camera  to detect any unknown object passing over and to activate alert system if any object gets detected.
 2.Continuous monitoring of the goods/products
-3.Theft detection
-4.Continuous monitoring of baby
+4.Theft detection
+5.Continuous monitoring of baby
 
 # Procedure
 
@@ -32,16 +32,24 @@ Open cv library to work with image/video and winsound to make buzzer
 
 # Intialize camera
 Intialize camera and load frames of image 
+
 First assign base or initial image by taking first image frame.
+
 After getting images, convert it to gray scale image 
+
 Apply gaussian blurr filter to remove unwanted noise in the image
+
 Then convert it to binary image
+
 Apply morphological operations like dialtion and erosion to remove unwanted small dot pixels in the image
+
 Then evaluate the current binary image with the initial /base image.
+
 If any difference which exceeds the predefined threshold the activate alert system.
 
 
 
+![image](https://user-images.githubusercontent.com/69953585/110924794-793f2f00-8348-11eb-97d1-3e636357421d.png)
 
 
 
