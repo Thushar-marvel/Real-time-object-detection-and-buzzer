@@ -49,7 +49,6 @@ If any difference which exceeds the predefined threshold the activate alert syst
 
 
 
-![image](https://user-images.githubusercontent.com/69953585/110924794-793f2f00-8348-11eb-97d1-3e636357421d.png)
 
 
 
