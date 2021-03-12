@@ -49,7 +49,7 @@ If any difference which exceeds the predefined threshold the activate alert syst
 
 
 
-![GIF](https://github.com/Thushar-marvel/Real-time-object-detetion-and-buzzer/blob/main/ezgif.com-video-to-gif.gif / GIF)
+
 
 [![GIF](https://github.com/Thushar-marvel/Real-time-object-detetion-and-buzzer/blob/main/ezgif.com-video-to-gif.gif)
 
